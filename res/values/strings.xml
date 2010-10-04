@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">LogListenerDemo</string>
+	<string name="appsome">Some awesome android App, that need to do some logging!</string>
+    <string name="welcome">Welcome to LogListenerDemo</string>
+	<string name="have_fun">Have fun!</string>
+	<string name="options_howto">Hit your menu key for generating some log messages!</string>
+	<string name="prompt">prompt</string>
+	<string name="log_msg">log: </string>
+	<string name="start_msg_gen">Start gen msgs</string>
+	<string name="stop_msg_gen">Stop gen msgs</string>
+</resources>
